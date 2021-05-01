@@ -4,7 +4,7 @@ I'm Alejandro, Full-Stack developer with 8 years of experience in web applicatio
 
 ### Tech Skills 🖥 :
 
-| Frontend ✏️ | Style sheets 💅🏽 | Backend ⚙️| Data Bases 🪣 | Code Verisoning 📂 | C I / C D 🔩  | Project Management 📅 |
+| Frontend ✏️ | Style sheets 💅🏽 | Backend ⚙️| Data Bases 🪣 | Code Verisoning 📂 | CI / CD 🔩  | Project Management 📅 |
 | :--:   	   | :--:	  	    | :--:        | :--:       | :--: 	      	 | :--:       | :--:               |
 | Javascript | CSS    	    | PHP         | MariaDB    | Github          | Docker     | SCRUM              |
 | React      | SASS   	    | Slim        | MongoDB    | Git             | GH Actions | Agile              |
@@ -13,9 +13,6 @@ I'm Alejandro, Full-Stack developer with 8 years of experience in web applicatio
 | Vue        | 		  	      | Lumen       | SQLServer  |                 |            |                    |
 | NodeJS     |		  	      | PHPUnit     |            |                 |            |                    |
 | JEST       |		    	    | Golang      |            |                 |            |                    |
-
-
-Golang • Docker • HTML5 • PUG/JADE • SCRUM • Agile
 
 ### Soft Skills 👤 :
 
