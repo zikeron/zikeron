@@ -9,7 +9,7 @@ I'm Alejandro, Full-Stack developer with 8 years of experience in web applicatio
 | Javascript | CSS    	    | PHP         | MariaDB    | Github          | Docker     | SCRUM              |
 | React      | SASS   	    | Slim        | MongoDB    | Git             | GH Actions | Agile              |
 | Redux      | Stylus 	    | Codeigniter | Firebase   | SourceTree      | Travis CI  | PMI                |                  
-| Angular    | postCSS	    | Laravel     | Redis      | Bitbucket       |            |                    |
+| Angular    | postCSS	    | Laravel     | Redis      | Bitbucket       | Cirecle CI |                    |
 | Vue        | 		  	      | Lumen       | SQLServer  |                 |            |                    |
 | NodeJS     |		  	      | PHPUnit     |            |                 |            |                    |
 | JEST       |		    	    | Golang      |            |                 |            |                    |
@@ -21,7 +21,7 @@ I'm Alejandro, Full-Stack developer with 8 years of experience in web applicatio
 
 ### Work 🗂 :
 
-  - 🔭 I’m currently working for https://clarodrive.com building awesome things with NodeJS, Angular, PHP, and Go
+  - 🔭 I’m currently working for [Xebia](https://xebia.com/) USA building awesome things with ReactJS.
 
 ### Learning 📓 :
   - 🌱 I’m currently learning more about Go language.
