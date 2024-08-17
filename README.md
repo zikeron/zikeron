@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Alejandro, Full-Stack developer with 8 years of experience in web application development using PHP & NodeJS language to develop back-end and 3 years of experience in the front-end, using technologies such as Angular, Vue JS, React. Currently, I am looking for job opportunities that will support me in continuing my professional growth.
+I'm Alejandro, Full-Stack developer with 10 years of experience in web application development using PHP & NodeJS language to develop back-end and 3 years of experience in the front-end, using technologies such as Angular, Vue JS, React. Currently, I am looking for job opportunities that will support me in continuing my professional growth.
 
 ### Tech Skills 🖥 :
 
@@ -29,4 +29,3 @@ I'm Alejandro, Full-Stack developer with 8 years of experience in web applicatio
 ### Contact 📞 :
 
 - [LinkedIn](https://www.linkedin.com/in/alejandro-cortez/) 📫 
-- [Twitter](https://twitter.com/ziker_on) 🐤
