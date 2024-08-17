@@ -1,18 +1,21 @@
 ## Hi there 👋
 
-I'm Alejandro, Full-Stack developer with 10 years of experience in web application development using PHP & NodeJS language to develop back-end and 3 years of experience in the front-end, using technologies such as Angular, Vue JS, React. Currently, I am looking for job opportunities that will support me in continuing my professional growth.
+Hi there! I'm Alejandro, a Full-Stack developer with 10 years of experience in web application development. I mainly use PHP and NodeJS for back-end development and have 8 years of experience in front-end development using technologies like Angular, Vue JS, and React. I am currently seeking job opportunities that will help me continue growing professionally.
 
 ### Tech Skills 🖥 :
 
-| Frontend ✏️ | Style sheets 💅🏽 | Backend ⚙️| Data Bases 🪣 | Code Verisoning 📂 | CI / CD 🔩  | Project Management 📅 |
-| :--:   	   | :--:	  	    | :--:        | :--:       | :--: 	      	 | :--:       | :--:               |
-| Javascript | CSS    	    | PHP         | MariaDB    | Github          | Docker     | SCRUM              |
-| React      | SASS   	    | Slim        | MongoDB    | Git             | GH Actions | Agile              |
-| Redux      | Stylus 	    | Codeigniter | Firebase   | SourceTree      | Travis CI  | PMI                |                  
-| Angular    | postCSS	    | Laravel     | Redis      | Bitbucket       | Cirecle CI |                    |
-| Vue        | 		  	      | Lumen       | SQLServer  |                 |            |                    |
-| NodeJS     |		  	      | PHPUnit     |            |                 |            |                    |
-| JEST       |		    	    | Golang      |            |                 |            |                    |
+| Frontend 💅🏽  | Backend ⚙️ | Data Bases 🪣 | Others Tools ⚒️ | 
+| :--:   	     | :--:	     | :--:	         | :--:           |
+| React        | PHP       | MariaDB       | Cordova        |
+| React Native | Golang    | MongoDB       | Capacitor      |
+| Angular      | NodeJS    | Firebase      | Docker         |
+| RxJS         | PHPUnit   | Redis         | Git            |
+| Vue          | Jest      | SQLServer     | Figma          |
+| CSS    	     | Shell     |               | Zeplin         |
+| SASS   	     |           |               | Postman        |
+| Stylus 	     |           |               | GH Actions     |
+| Svele 	     |           |               | Travis CI      |
+|       	     |           |               | Circle CI      | 
 
 ### Soft Skills 👤 :
 
