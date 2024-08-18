@@ -129,8 +129,6 @@ Hi there! I'm Alejandro, a Full-Stack developer with 10 years of experience in w
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zikeron&theme=gotham" alt="zikeron" />
 </p>
 
-theme=blue-green
-
 ### Soft Skills 👤 :
 
  - Adaptability 
